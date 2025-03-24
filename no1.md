@@ -1,4 +1,4 @@
-![Cu Off Warrant](https://github.com/user-attachments/assets/e682bfd7-ec56-4a9d-be31-5d9c91fad26b)---
+---
 title: 1.电解铜-基差
 layout: home
 nav_order: 2
@@ -12,6 +12,4 @@ nav_order: 2
 ![SMM电解铜社库：保税：万吨]("D:\有色组-乾瞻投资\PycharmProjects\ProjectW\Charts\SMM电解铜社库：保税：万吨.png")
 ![LME铜库存：万吨]("D:\有色组-乾瞻投资\PycharmProjects\ProjectW\Charts\LME铜库存：万吨.png")
 ![COMEX铜库存：万吨]("D:\有色组-乾瞻投资\PycharmProjects\ProjectW\Charts\COMEX铜库存：万吨.png")
-![Cu Off Warrant]("D:\有色组-乾瞻投资\PycharmProjects\ProjectW\Charts\Cu Off Warrant.png")
-![海外电铜库存（含LME Off Warrant）]("D:\有色组-乾瞻投资\PycharmProjects\ProjectW\Charts\海外电铜库存（含LME Off Warrant）.png")
 
