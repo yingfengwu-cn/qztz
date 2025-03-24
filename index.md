@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 策略观点
 layout: home
 ---
 
