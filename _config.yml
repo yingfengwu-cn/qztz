@@ -1,8 +1,8 @@
 title: QZTZ Base Metal Research
 description: Daily Charts Updates!
 theme: just-the-docs
-
+search_enabled: False
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://yingfengwu-cn.github.io/qztz/
+  返回首页: https://yingfengwu-cn.github.io/qztz/
