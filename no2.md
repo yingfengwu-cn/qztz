@@ -1,6 +1,6 @@
 ---
 title: 2.电解铜-库存
-layout: default
+layout: minimal
 ---
 
 
