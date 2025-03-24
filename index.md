@@ -1,5 +1,5 @@
 ---
-title: 策略观点
+title: 铜策略观点
 layout: home
 nav_order: 1
 ---
