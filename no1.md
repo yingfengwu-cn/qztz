@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 1.电解铜-基差
 layout: home
 ---
 
