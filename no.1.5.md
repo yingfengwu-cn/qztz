@@ -14,6 +14,6 @@ nav_order: 5
 ![scrapstxday](https://basemetalwork-1322034489.cos.ap-shanghai.myqcloud.com/%E4%B8%AD%E5%9B%BD%E5%BA%9F%E7%B4%AB%E9%93%9C%E6%9C%88%E5%BA%A6%E5%BA%93%E5%AD%98%E5%91%A8%E8%BD%AC%E5%A4%A9%E6%95%B0.png)
 ![brassstxday](https://basemetalwork-1322034489.cos.ap-shanghai.myqcloud.com/%E4%B8%AD%E5%9B%BD%E5%BA%9F%E9%BB%84%E9%93%9C%E6%9C%88%E5%BA%A6%E5%BA%93%E5%AD%98%E5%91%A8%E8%BD%AC%E5%A4%A9%E6%95%B0.png)
 ![CIFSCRAP](https://basemetalwork-1322034489.cos.ap-shanghai.myqcloud.com/%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%8F%A3%E5%BA%9F%E6%9D%82%E9%93%9C%E6%89%A3%E5%87%8F%EF%BC%9A%E4%B8%80%E5%8F%B7%E7%B4%AB%E9%93%9C.png)
-
+![CIFSCRAP4](https://basemetalwork-1322034489.cos.ap-shanghai.myqcloud.com/%E6%AC%A7%E6%B4%B2%EF%BC%9A1%23%E9%93%9C%E6%9D%90CIF.png)
 ![CIFSCRAP2](https://basemetalwork-1322034489.cos.ap-shanghai.myqcloud.com/%E4%B8%9C%E5%8D%97%E4%BA%9A%EF%BC%9A%E5%85%89%E4%BA%AE%E7%BA%BFCIF.png)
 ![CIFSCRAP3](https://basemetalwork-1322034489.cos.ap-shanghai.myqcloud.com/%E4%B8%9C%E5%8D%97%E4%BA%9A%EF%BC%9A1%23%E9%93%9C%E7%B1%B3CIF.png)
