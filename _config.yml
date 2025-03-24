@@ -2,6 +2,8 @@ title: QZTZ Base Metal Research
 description: Daily Charts Updates!
 theme: just-the-docs
 search_enabled: False
+heading_anchors: true
+
 url: https://just-the-docs.github.io
 
 aux_links:
