@@ -1,5 +1,5 @@
 ---
-title: 1.1 上游原料库存
+title: 1.2 铜精矿库存
 layout: home
 parent: 1.铜-库存
 nav_order: 2
