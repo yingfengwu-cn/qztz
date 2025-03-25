@@ -1,5 +1,5 @@
 ---
-title: 6.电解铜-海外矿山产量
+title: 6.铜-海外产量
 layout: home
 parent: 铜策略观点
 nav_order: 6
