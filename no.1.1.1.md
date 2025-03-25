@@ -1,5 +1,5 @@
 ---
-title: 1.1 分地区库存
+title: 1.1 电解铜库存
 layout: home
 parent: 1.铜-库存
 nav_order: 1
