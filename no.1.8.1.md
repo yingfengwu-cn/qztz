@@ -2,7 +2,7 @@
 title: 8.1 电解铜-中国平衡表
 layout: home
 parent: 8.铜元素-平衡表
-nav_order: 8
+nav_order: 1
 ---
 
 
