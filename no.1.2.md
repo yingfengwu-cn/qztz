@@ -1,5 +1,5 @@
 ---
-title: 2.电解铜-基差
+title: 2.铜-基差
 layout: home
 parent: 铜策略观点
 nav_order: 2
