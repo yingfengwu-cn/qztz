@@ -1,5 +1,5 @@
 ---
-title: 1.电解铜-库存
+title: 1.铜-库存
 layout: home
 parent: 铜策略观点
 has_toc: false
