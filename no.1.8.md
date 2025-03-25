@@ -1,5 +1,5 @@
 ---
-title: 8.电解铜-平衡表
+title: 8.铜元素-平衡表
 layout: home
 parent: 铜策略观点
 nav_order: 8
