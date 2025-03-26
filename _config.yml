@@ -5,6 +5,7 @@ search_enabled: False
 heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
+baseurl: "/your-repo" # 如果网站地址是 username.github.io/your-repo
 
 url: https://just-the-docs.github.io
 
