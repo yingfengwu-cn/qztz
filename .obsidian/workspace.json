@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 422.5
   },
   "right": {
     "id": "f3c2715164d696e9",
@@ -170,6 +170,8 @@
   },
   "active": "fc15acdf499e52eb",
   "lastOpenFiles": [
+    "no.1.1.1.md",
+    "no.1.1.md",
     "Charts/非洲湿法铜实际出口：倒推.png",
     "Charts/非洲湿法铜实际产量：估算.png",
     "Charts/非洲库存变化.png",
@@ -180,15 +182,12 @@
     "Charts/镀锌管：3.75mm：汇总均价：日.png",
     "Charts/镀锌管：3.25mm：汇总均价：日.png",
     "Charts/镀锌管利润.png",
-    "Charts/镀锌板带：出口数量合计：月.png",
     "Charts/库存期货",
     "Charts/主要国家电解铜月度出口量",
     "Charts/SMM中国铜管月度样本电解铜用量",
     "Charts/SMM中国铜管月度开工率",
     "Charts/SMM中国铜板带月度开工率",
     "Charts",
-    "no.1.1.1.md",
-    "no.1.1.md",
     "no.1.1.2.md",
     "index.md",
     "index2.md",
