@@ -6,7 +6,7 @@ has_toc: false
 nav_order: 1
 ---
 
-
+<img src="{{ site.baseurl }}/images/photo.jpg">
 
 ![[Al Off Warrant.png]]![[CIF进口粗铜.png]]
 ![[CMX：连一-连二.png]]
