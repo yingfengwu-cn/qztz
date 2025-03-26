@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 <img src="{{ site.baseurl }}/Al%20Off%20Warrant.png.jpg">
-https://github.com/yingfengwu-cn/qztz/blob/main/Charts/Al%20Off%20Warrant.png
+![[CMX：连一-连二.png]](https://github.com/yingfengwu-cn/qztz/blob/main/Charts/Al%20Off%20Warrant.png)
 
 ![[Al Off Warrant.png]]![[CIF进口粗铜.png]]
 ![[CMX：连一-连二.png]]
