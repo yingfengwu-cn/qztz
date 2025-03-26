@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "no.1.6.2.md",
+                "file": "no.1.6.1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "no.1.6.2"
+              "title": "no.1.6.1"
             }
           }
         ],
@@ -185,6 +185,7 @@
   },
   "active": "4ab7ab9a97ad5056",
   "lastOpenFiles": [
+    "no.1.6.2.md",
     "no.1.6.1.md",
     "no.1.6.md",
     "no.1.5.md",
