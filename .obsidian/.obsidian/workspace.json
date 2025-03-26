@@ -1,56 +1,37 @@
 {
   "main": {
-    "id": "8272e6895d3d0c16",
+    "id": "b026143786217e03",
     "type": "split",
     "children": [
       {
-        "id": "f1ed3545ce9ae458",
+        "id": "2e602158d3dd1580",
         "type": "tabs",
         "children": [
           {
-            "id": "fc15acdf499e52eb",
+            "id": "5eddf8117127dd1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "no.1.2.2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "no.1.2.2"
-            }
-          },
-          {
-            "id": "4ab7ab9a97ad5056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "no.1.3.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "no.1.3"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6750875ba5703b8b",
+    "id": "d6a6751beb0a8f1b",
     "type": "split",
     "children": [
       {
-        "id": "f7d959b3d19a910b",
+        "id": "cfadf6a75bcb6107",
         "type": "tabs",
         "children": [
           {
-            "id": "2becd1e1cacef1e7",
+            "id": "a022a49c84574d06",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +44,7 @@
             }
           },
           {
-            "id": "b9edabf6cd3fd69a",
+            "id": "61ba1f4e4005dddd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,40 +57,39 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
-            "id": "9c64b792a4549bcf",
+            "id": "284cfcc5c123c95e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 297.5
   },
   "right": {
-    "id": "f3c2715164d696e9",
+    "id": "35702f9527ba9fa5",
     "type": "split",
     "children": [
       {
-        "id": "ef3b5d858a55cace",
+        "id": "086b0893119504ce",
         "type": "tabs",
         "children": [
           {
-            "id": "d09dec789823afc4",
+            "id": "b9bee7b4198a08a5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "no.1.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "no.1.4 的反向链接列表"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "47211d3f1d855247",
+            "id": "dce37edf2f9ea3b7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "no.1.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "no.1.4 的出链列表"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "ef3ebf2c6f8aafae",
+            "id": "756cbc70a4ca38be",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,22 +127,21 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
-            "id": "ba2e57f3613ee95e",
+            "id": "9495897b5a2043c3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "no.1.4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "no.1.4 的大纲"
+              "title": "Outline"
             }
           }
         ]
@@ -183,39 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ab7ab9a97ad5056",
-  "lastOpenFiles": [
-    "no.1.4.md",
-    "no.1.3.md",
-    "no.1.2.3.md",
-    "no.1.2.1.md",
-    "no.1.2.2.md",
-    "no.1.1.4.md",
-    "no.1.1.1.md",
-    "no.1.1.md",
-    "no.1.2.md",
-    "未命名",
-    "Charts/电解铜出口：日本.png",
-    "Charts/大型企业月精铜用量.png",
-    "Charts/彩涂板卷：钢铁企业：产线条数：中国：周.png",
-    "no.1.2.3",
-    "no.1.1.3.md",
-    "no.1.1.2.md",
-    "Charts/非洲湿法铜实际出口：倒推.png",
-    "Charts/非洲湿法铜实际产量：估算.png",
-    "Charts/非洲库存变化.png",
-    "Charts/非洲实际出口（离港）.png",
-    "Charts/非洲合计出口（到港）.png",
-    "Charts/非洲产量倒推.png",
-    "Charts/阳极铜出口：主要国家.png",
-    "Charts/库存期货",
-    "Charts/主要国家电解铜月度出口量",
-    "Charts/SMM中国铜管月度样本电解铜用量",
-    "Charts/SMM中国铜管月度开工率",
-    "Charts/SMM中国铜板带月度开工率",
-    "Charts",
-    "index.md",
-    "index2.md",
-    "README.md"
-  ]
+  "active": "5eddf8117127dd1a",
+  "lastOpenFiles": []
 }
