@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "da4582fea71c2254",
+        "id": "4a6d5bc9f334dddf",
         "type": "tabs",
         "children": [
           {
-            "id": "80b8682352eea34a",
+            "id": "d17a23e35f29e0b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "no.1.8.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "no.1.8"
-            }
-          },
-          {
-            "id": "b6b830e002d9daea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "no.1.1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "no.1.1"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,16 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6b830e002d9daea",
+  "active": "d17a23e35f29e0b8",
   "lastOpenFiles": [
+    "no.1.8.md",
+    "no.1.1.md",
     "no.1.1.2.md",
     "no.1.1.1.md",
-    "no.1.1.md",
     "no.1.2.1.md",
     "no.1.9.md",
     "no.1.4.md",
     "no.1.7.md",
-    "no.1.8.md",
     "no.1.8.1.2.md",
     "no.1.8.4.md",
     "no.1.2.3.md",
