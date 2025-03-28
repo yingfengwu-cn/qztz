@@ -14,7 +14,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -156,16 +156,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "d17a23e35f29e0b8",
   "lastOpenFiles": [
+    "Charts/国内库存推算.png",
+    "Charts/SMM中国电线电缆月度样本铜用量.png",
+    "Charts/SMM中国铜板带月度原料库存天数.png",
     "no.1.8.md",
     "no.1.1.md",
     "no.1.1.2.md",
@@ -196,7 +199,6 @@
     "no.1.5.md",
     "no.1.8.3.md",
     "Charts/全球铜矿项目分国家.png",
-    "no.1.6.md",
     "Charts/全球铜矿项目分项目.png",
     "Charts/铜精矿项目分国家.png",
     "Charts/中国铜平衡表.png",
@@ -204,8 +206,6 @@
     "Charts/全球铜平衡表.png",
     "Charts/CMX铜连续合约曲线.png",
     "Charts/铜抛储.png",
-    "Charts/期末库存.png",
-    "Charts/海外总供应.png",
     "未命名",
     "no.1.2.3",
     "Charts/库存期货",
