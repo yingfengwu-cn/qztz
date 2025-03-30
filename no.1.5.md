@@ -11,6 +11,8 @@ nav_order: 5
 
 <img src="Charts/%E7%B2%BE%E5%BA%9F%E5%B7%AE%E9%99%A4%E9%93%9C%E4%BB%B7%25.png" alt="%">
 
+<img src="Charts/%E6%B9%96%E5%8C%97%EF%BC%9A%E5%86%8D%E7%94%9F%E9%93%9C%E6%9D%86%E4%BA%A7%E8%83%BD%E5%88%A9%E7%94%A8%E7%8E%87.png" alt="湖北铜杆开工">
+
 <img src="Charts/%E6%B9%96%E5%8C%97%EF%BC%9A%E5%86%8D%E7%94%9F%E9%93%9C%E6%9D%86%E4%BA%A7%E9%87%8F.png" alt="湖北铜杆产量">
 
 <img src="Charts/%E5%9B%BD%E5%86%85%E5%8A%A0%E5%B7%A5%E7%94%A8%E5%BA%9F.png" alt="平衡表废铜杆">
