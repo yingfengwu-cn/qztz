@@ -19,7 +19,7 @@ nav_order: 3
 
 <img src="Charts/SMM%E4%B8%AD%E5%9B%BD%E7%94%B5%E7%BA%BF%E7%94%B5%E7%BC%86%E6%9C%88%E5%BA%A6%E5%BC%80%E5%B7%A5%E7%8E%87.png" alt="线缆月度">
 
-<img src="Charts/SMM%E4%B8%AD%E5%9B%BD%E9%93%9C%E7%AE%A1%E6%9C%88%E5%BA%A6%E5%BC%80%E5%B7%A5%E7%8E%87" alt="铜管">
+<img src="Charts/SMM%E4%B8%AD%E5%9B%BD%E9%93%9C%E7%AE%A1%E6%9C%88%E5%BA%A6%E5%BC%80%E5%B7%A5%E7%8E%87.png?raw=true" alt="铜管">
 
 <img src="Charts/SMM%E4%B8%AD%E5%9B%BD%E9%93%9C%E6%9D%BF%E5%B8%A6%E6%9C%88%E5%BA%A6%E5%BC%80%E5%B7%A5%E7%8E%87.png" alt="铜板带">
 
