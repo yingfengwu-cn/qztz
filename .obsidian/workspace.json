@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c08a4cd7501e7e63",
+        "id": "cdc34ed3eba1b223",
         "type": "tabs",
         "children": [
           {
-            "id": "616e5151d108790e",
+            "id": "b5e65a506f0b0955",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "新标签页"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -156,17 +156,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "616e5151d108790e",
+  "active": "b5e65a506f0b0955",
   "lastOpenFiles": [
-    "index2.md",
+    "no.1.2.3.md",
+    "no.1.1.4.md",
+    "no.1.1.3.md",
     "Charts/ZN近月-连三.png",
     "Charts/ZN近月-连二.png",
     "Charts/ZN近月-连一.png",
@@ -174,43 +176,40 @@
     "Charts/ZN连二.png",
     "Charts/ZN连一.png",
     "Charts/ZN近月.png",
-    "no.1.9.md",
+    "Charts/伦铜3M-15M.png",
+    "Charts/SHFE期货日库存.png",
     "no.1.10.md",
-    "no.1.4.md",
-    "no.1.3.md",
-    "no.1.8.1.2.md",
+    "Charts/ZN近月-连三.png.nssyncsc",
+    "Charts/ZN近月-连二.png.nssyncsc",
+    "Charts/ZN近月-连一.png.nssyncsc",
+    "Charts/ZN连三.png.nssyncsc",
+    "Charts/ZN连二.png.nssyncsc",
+    "Charts/ZN连一.png.nssyncsc",
+    "Charts/ZN近月.png.nssyncsc",
     "锌分析20250330.md",
-    "锌分析20250330.md.nssyncsc",
     "Charts/锌月差.png",
-    "Charts/锌月差.png.nssyncsc",
-    "Charts/LME锌注销仓单.png",
-    "Charts/LME锌注销仓单.png.nssyncsc",
-    "Charts/LME锌库存.png",
-    "Charts/LME锌库存.png.nssyncsc",
-    "Charts/LME锌0-3.png.nssyncsc",
-    "Charts/锌矿项目2.png.nssyncsc",
-    "Charts/锌矿项目.png.nssyncsc",
-    "Charts/镀锌板卷库存.png.nssyncsc",
-    "Charts/LME日报.png.nssyncsc",
-    "Charts/锌农历库存.png.nssyncsc",
     "铜市场分析20250330.md",
-    "铜市场分析20250323.md",
-    "锌分析20250323.md",
+    "no.1.4.md",
+    "no.1.2.2.md",
+    "no.1.2.1.md",
+    "no.1.2.md",
+    "no.1.5.md",
+    "no.1.1.2.md",
+    "no.1.9.md",
     "锌市场分析.md",
     "no.1.8.md",
     "no.1.1.md",
-    "no.1.1.2.md",
     "no.1.1.1.md",
-    "no.1.2.1.md",
     "no.1.7.md",
+    "no.1.8.1.2.md",
     "no.1.8.4.md",
-    "no.1.2.3.md",
-    "no.1.2.2.md",
-    "no.1.2.md",
     "no.1.7.4.md",
     "no.1.7.3.md",
     "no.1.7.2.md",
     "no.1.7.1.md",
-    "no.1.8.1.md"
+    "no.1.8.1.md",
+    "no.1.7.4.md.nssyncsc",
+    "未命名.md.nssyncsc",
+    "no.1.7.3.md.nssyncsc"
   ]
 }
