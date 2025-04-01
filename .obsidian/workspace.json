@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "no.1.8.md",
+                "file": "no.1.8.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "no.1.8"
+              "title": "no.1.8.1"
             }
           }
         ]
@@ -170,7 +170,9 @@
   },
   "active": "4c875b4601f08843",
   "lastOpenFiles": [
+    "no.1.8.1.1.md",
     "no.1.8.1.md",
+    "no.1.8.md",
     "no.1.7.4.md",
     "铜市场分析20250330.md",
     "锌分析20250330.md",
@@ -207,14 +209,12 @@
     "no.1.1.2.md",
     "no.1.9.md",
     "锌市场分析.md",
-    "no.1.8.md",
     "no.1.1.md",
     "no.1.1.1.md",
     "no.1.7.md",
     "no.1.8.1.2.md",
     "no.1.8.4.md",
     "no.1.7.3.md",
-    "no.1.7.2.md",
-    "no.1.7.1.md"
+    "no.1.7.2.md"
   ]
 }
