@@ -28,7 +28,7 @@ nav_order: 1
 
 <img src="Charts/%E4%BC%A6%E9%93%9C3M-15M.png" alt="lme3-15">
 
-<img src="Charts/CMX%E9%93%9C%E8%BF%9E%E7%BB%AD%E5%90%88%E7%BA%A6%E6%9B%B2%E7%BA%BF.png" alt="lme连续合约曲线">
+<img src="CMX%E9%93%9C%E8%BF%9E%E7%BB%AD%E5%90%88%E7%BA%A6%E6%9B%B2%E7%BA%BF.png" alt="lme连续合约曲线">
 
 <img src="Charts/CMX%EF%BC%9A%E8%BF%9E%E4%B8%80-%E8%BF%9E%E4%BA%8C.png
 " alt="cmx1-2">

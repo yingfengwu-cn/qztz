@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b51e996a64e8a157",
+        "id": "f8b3a811a35726d0",
         "type": "tabs",
         "children": [
           {
-            "id": "47f9dd9b302e950e",
+            "id": "d8dca930552e4ad5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,9 +164,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "47f9dd9b302e950e",
+  "active": "d8dca930552e4ad5",
   "lastOpenFiles": [
     "no.1.2.1.md",
+    "no.1.2.md",
     "no.1.1.2.md",
     "no.1.1.1.md",
     "Charts/LME铜连续合约曲线.png",
@@ -203,7 +204,6 @@
     "no.1.10.md",
     "no.1.4.md",
     "no.1.2.2.md",
-    "no.1.2.md",
     "no.1.5.md",
     "no.1.9.md",
     "锌市场分析.md",
