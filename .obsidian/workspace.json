@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ca9c14876524f62",
+        "id": "858e2030edca4083",
         "type": "tabs",
         "children": [
           {
-            "id": "f5f4dc97cf421dd0",
+            "id": "b841d992575f3760",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "新标签页"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -156,61 +156,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "f5f4dc97cf421dd0",
+  "active": "b841d992575f3760",
   "lastOpenFiles": [
-    "Charts/铜：中国对美国进出口.png",
-    "Charts/铜：中国对美国进出口.png.nssyncsc",
-    "Charts/铜：美国对中国进出口.png",
-    "Charts/铜：美国对中国进出口.png.nssyncsc",
-    "Charts/进出口：美国：对中国.png",
-    "Charts/进出口：美国：对中国.png.nssyncsc",
-    "Charts/出口：废铜：美国.png",
-    "Charts/出口：废铜：美国.png.nssyncsc",
-    "Charts/复盘：大跌时结构.png",
-    "Charts/复盘：大跌时结构.png.nssyncsc",
-    "Charts/LME铜连续合约曲线.png",
-    "Charts/LME铜结构曲线.png",
-    "Charts/LME铜连续合约曲线.png.nssyncsc",
-    "Charts/LME铜结构曲线.png.nssyncsc",
-    "no.2.1.md",
-    "README.md",
-    "index2.md",
     "index.md",
-    "no.1.10.md",
+    "Charts/铜：中国对美国进出口.png",
+    "Charts/铜：美国对中国进出口.png",
+    "Charts/进出口：美国：对中国.png",
+    "Charts/出口：废铜：美国.png",
+    "Charts/复盘：大跌时结构.png",
     "no.1.1.md",
-    "Charts/收盘价：四月：COMEX铜.png",
-    "Charts/锌农历库存.png",
-    "锌分析20250330.md",
-    "Charts/锌终端模型.png",
-    "Charts/锌终端模型.png.nssyncsc",
-    "锌分析20250330.pdf",
-    "Charts/锌锭平衡表供需季节性.png",
-    "Charts/LME",
-    "no.1.9.md",
-    "no.1.4.md",
-    "no.1.3.md",
-    "no.1.8.1.2.md",
-    "铜市场分析20250330.md",
-    "铜市场分析20250323.md",
-    "锌分析20250323.md",
-    "锌市场分析.md",
-    "no.1.8.md",
+    "index2.md",
+    "no.1.2.1.md",
+    "no.1.2.md",
     "no.1.1.2.md",
     "no.1.1.1.md",
-    "no.1.2.1.md",
-    "no.1.7.md",
-    "no.1.8.4.md",
+    "Charts/LME铜连续合约曲线.png",
+    "Charts/LME铜结构曲线.png",
+    "no.2.1.md",
+    "no.2.1.md.nssyncsc",
+    "铜市场分析20250330.md",
+    "锌分析20250330.md",
+    "no.1.8.1.md",
+    "no.1.8.1.1.md",
+    "no.1.8.md",
+    "no.1.7.4.md",
+    "Charts/锌终端模型.png",
+    "no.1.3.md",
+    "锌分析20250330.pdf",
+    "锌分析20250330.md.nssyncsc",
+    "锌分析20250330.pdf.nssyncsc",
+    "Charts/锌锭平衡表供需季节性.png",
+    "Charts/锌锭平衡表供需季节性.png.nssyncsc",
+    "Charts/锌锭平衡表库存.png",
+    "Charts/锌锭平衡表库存.png.nssyncsc",
+    "Charts/平衡表国内锌精矿总库存.png.nssyncsc",
+    "Charts/中国锌平衡表.png.nssyncsc",
+    "Charts/锌精矿平衡表.png.nssyncsc",
+    "Charts/中国锌精矿平衡表.png.nssyncsc",
     "no.1.2.3.md",
+    "no.1.1.4.md",
+    "no.1.1.3.md",
+    "no.1.10.md",
+    "no.1.4.md",
     "no.1.2.2.md",
-    "no.1.2.md",
-    "no.1.7.4.md"
+    "no.1.5.md",
+    "no.1.9.md",
+    "锌市场分析.md",
+    "no.1.7.md"
   ]
 }
