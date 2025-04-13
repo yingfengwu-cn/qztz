@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "18f0758c31a26ab2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "69c08cef5dca2cbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "锌分析20250413.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "锌分析20250413"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +168,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "69c08cef5dca2cbd",
+  "active": "d7129636a3dfd392",
   "lastOpenFiles": [
     "铜市场分析20250413.md",
     "Charts/LME日报.png",
