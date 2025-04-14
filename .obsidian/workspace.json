@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ca9c14876524f62",
+        "id": "bb0a033aaa9d45ec",
         "type": "tabs",
         "children": [
           {
-            "id": "f5f4dc97cf421dd0",
+            "id": "d952c652db99adb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "no.2.1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "no.2.1"
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +165,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f5f4dc97cf421dd0",
+  "active": "d952c652db99adb8",
   "lastOpenFiles": [
+    "no.2.1.md",
+    "README.md",
+    "no.1.10.md",
     "锌分析20250413.md",
     "锌分析20250413.md.nssyncsc",
     "锌分析20250406.md",
@@ -195,11 +194,8 @@
     "Charts/铜：中国对美国进出口.png.nssyncsc",
     "Charts/铜：美国对中国进出口.png.nssyncsc",
     "Charts/进出口：美国：对中国.png.nssyncsc",
-    "no.2.1.md",
-    "README.md",
     "index2.md",
     "index.md",
-    "no.1.10.md",
     "no.1.1.md",
     "锌分析20250330.md",
     "no.1.9.md",
