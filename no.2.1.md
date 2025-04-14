@@ -6,6 +6,7 @@ has_toc: false
 nav_order: 1
 ---
 
+<img src="Charts/LME%E9%93%9C%EF%BC%9A%E7%AE%A1%E7%90%86%E5%9F%BA%E9%87%91%EF%BC%9A%E5%87%80%E5%A4%9A%E5%A4%B4%E6%8C%81%E4%BB%93.png" alt="lme持仓">
 
 <img src=“Charts/SMM%E4%B8%83%E5%9C%B0%E9%94%8C%E9%94%AD%E5%91%A8%E5%BA%A6%E5%BA%93%E5%AD%98.png” alt="锌七地">
 
