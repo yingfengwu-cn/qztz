@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "74e585ceae7e6162",
+        "id": "d452766c3c031945",
         "type": "tabs",
         "children": [
           {
-            "id": "d7129636a3dfd392",
+            "id": "878511acd0b5644a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "锌分析20250413.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "锌分析20250413"
-            }
-          }
-        ]
-      },
-      {
-        "id": "18f0758c31a26ab2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "69c08cef5dca2cbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "锌分析20250413.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "锌分析20250413"
+              "title": "新标签页"
             }
           }
         ]
@@ -114,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "no.1.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "no.1.4 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -188,8 +163,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "69c08cef5dca2cbd",
+  "active": "878511acd0b5644a",
   "lastOpenFiles": [
+    "no.2.1.md",
+    "no.1.10.md",
+    "no.1.1.1.md",
+    "no.1.1.md",
+    "no.1.9.md",
+    "no.1.7.4.md",
+    "README.md",
+    "index2.md",
+    "锌分析20250413.md",
     "铜市场分析20250413.md",
     "Charts/LME日报.png",
     "铜市场分析20250413.md.nssyncsc",
@@ -206,21 +190,14 @@
     "铜市场分析20250406.md",
     "Charts/锌加工费和锌价.png",
     "Charts/美联储下一次利率方向.png",
-    "锌分析20250413.md",
     "锌分析20250406.md.nssyncsc",
     "铜市场分析20250406.md.nssyncsc",
     "Charts/铜：中国对美国进出口.png.nssyncsc",
     "Charts/铜：美国对中国进出口.png.nssyncsc",
     "Charts/进出口：美国：对中国.png.nssyncsc",
     "Charts/出口：废铜：美国.png.nssyncsc",
-    "no.2.1.md",
-    "README.md",
-    "index2.md",
     "index.md",
-    "no.1.10.md",
-    "no.1.1.md",
     "锌分析20250330.md",
-    "no.1.9.md",
     "no.1.4.md",
     "no.1.3.md",
     "no.1.8.1.2.md",
@@ -230,7 +207,6 @@
     "锌市场分析.md",
     "no.1.8.md",
     "no.1.1.2.md",
-    "no.1.1.1.md",
     "no.1.2.1.md",
     "no.1.7.md",
     "no.1.8.4.md",
