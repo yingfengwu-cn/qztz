@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "no.2.1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "no.2.1"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "d952c652db99adb8",
   "lastOpenFiles": [
+    "index.md",
     "铜市场分析20250413.md",
     "no.2.1.md",
     "README.md",
@@ -199,7 +200,6 @@
     "Charts/铜：美国对中国进出口.png.nssyncsc",
     "Charts/进出口：美国：对中国.png.nssyncsc",
     "index2.md",
-    "index.md",
     "no.1.1.md",
     "锌分析20250330.md",
     "no.1.9.md",
