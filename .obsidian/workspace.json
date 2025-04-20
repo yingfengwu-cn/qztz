@@ -15,7 +15,7 @@
               "state": {
                 "file": "铜市场分析20250413.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "铜市场分析20250413"
@@ -189,7 +189,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b5e67676a67cd04e",
+  "active": "8c265b13e6194cfb",
   "lastOpenFiles": [
     "no.2.1.md",
     "Charts/即期平衡推算.png",
