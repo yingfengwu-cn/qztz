@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "no.1.9.md",
+                "file": "铜市场分析20250420.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "no.1.9"
+              "title": "铜市场分析20250420"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "8c265b13e6194cfb",
   "lastOpenFiles": [
+    "no.1.9.md",
     "铜市场分析20250420.md",
     "锌分析20250413.md",
     "no.2.1.md",
@@ -202,7 +203,6 @@
     "index.md",
     "no.1.1.md",
     "锌分析20250330.md",
-    "no.1.9.md",
     "no.1.4.md",
     "no.1.3.md",
     "no.1.8.1.2.md",
