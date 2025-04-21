@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f101d542d06448ab",
+        "id": "48c7729726cfc969",
         "type": "tabs",
         "children": [
           {
-            "id": "84b526b40f816ca5",
+            "id": "e320b3dc50e9cec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "no.2.2.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "no.2.2"
+            }
+          },
+          {
+            "id": "64a54ef9967f826e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "no.2.3.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "no.2.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,9 +184,8 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "84b526b40f816ca5",
+  "active": "64a54ef9967f826e",
   "lastOpenFiles": [
-    "README.md",
     "no.2.2.md",
     "no.2.3.md",
     "no.2.1.md",
@@ -189,6 +203,7 @@
     "Charts/中国锌锭产量.png",
     "铜市场分析20250420.md",
     "no.1.9.md",
+    "README.md",
     "锌分析20250413.md.nssyncsc",
     "锌分析20250406.md",
     "铜市场分析20250413.md.nssyncsc",
