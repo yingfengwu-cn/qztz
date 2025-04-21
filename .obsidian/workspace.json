@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "no.2.1.md",
+                "file": "no.2.3.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "no.2.1"
+              "title": "no.2.3"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "4560d1cf8b50c0c1",
   "lastOpenFiles": [
-    "no.2.3.md",
     "no.2.2.md",
+    "no.2.3.md",
     "no.2.1.md",
     "README.md",
     "no.1.10.md",
