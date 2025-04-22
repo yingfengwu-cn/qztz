@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c939b497e5c9073f",
+        "id": "317cf7915a4cc3b2",
         "type": "tabs",
         "children": [
           {
-            "id": "12cb10b871a4eb39",
+            "id": "1a4777b06ee3ff56",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,9 +169,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "12cb10b871a4eb39",
+  "active": "1a4777b06ee3ff56",
   "lastOpenFiles": [
     "锌分析20250420.md",
+    "铜市场分析20250420.md",
     "Charts/铜表消季节性.png",
     "no.2.1.md",
     "no.2.2.md",
@@ -187,7 +188,6 @@
     "Charts/中国锌锭平衡.png",
     "Charts/中国锌锭表消.png",
     "Charts/中国锌锭净进口.png",
-    "铜市场分析20250420.md",
     "no.1.9.md",
     "锌分析20250413.md.nssyncsc",
     "锌分析20250406.md",
