@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "317cf7915a4cc3b2",
+        "id": "f250f5e0c85e1ce3",
         "type": "tabs",
         "children": [
           {
-            "id": "1a4777b06ee3ff56",
+            "id": "002b002b7f7a2a2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "铜市场分析20250420.md",
+                "file": "锌分析20250420.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "铜市场分析20250420"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9a8be9b6ee2e5116",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7d4526e462eeebc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "铜市场分析20250420.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "铜市场分析20250420"
+              "title": "锌分析20250420"
             }
           }
         ]
@@ -189,10 +169,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7d4526e462eeebc7",
+  "active": "2becd1e1cacef1e7",
   "lastOpenFiles": [
-    "锌分析20250420.md",
     "铜市场分析20250420.md",
+    "锌分析20250420.md",
     "Charts/铜表消季节性.png",
     "no.2.1.md",
     "no.2.2.md",
