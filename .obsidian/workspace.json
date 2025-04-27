@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d61025d3f8f1b03d",
+        "id": "bbbfa38af3f010dc",
         "type": "tabs",
         "children": [
           {
-            "id": "4e2618f2acde906f",
+            "id": "4656c1686465fcc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "铜市场分析20250420.md",
+                "file": "锌分析20250420.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "铜市场分析20250420"
+              "title": "锌分析20250420"
             }
           }
         ]
@@ -174,42 +174,43 @@
     "type": "floating",
     "children": [
       {
-        "id": "f60d81ec53a86da3",
+        "id": "99f61f31d24a253b",
         "type": "window",
         "children": [
           {
-            "id": "70ce6259aa135919",
+            "id": "1a438be53c68cd37",
             "type": "tabs",
             "children": [
               {
-                "id": "ba0a52c7589ee24b",
+                "id": "52ed8ac862fc059c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "铜市场分析20250420.md",
+                    "file": "锌分析20250420.md",
                     "mode": "preview",
-                    "source": false
+                    "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "铜市场分析20250420"
+                  "title": "锌分析20250420"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 3015,
-        "y": 230,
+        "x": 3132,
+        "y": 336,
         "width": 600,
         "height": 782,
         "maximize": true,
-        "zoom": 2.5
+        "zoom": 3
       }
     ]
   },
-  "active": "4e2618f2acde906f",
+  "active": "52ed8ac862fc059c",
   "lastOpenFiles": [
+    "铜市场分析20250420.md",
     "no.1.1.md",
     "Charts/锌加工费和锌价.png",
     "Charts/铜表消季节性.png",
@@ -235,7 +236,6 @@
     "Charts/中国锌矿平衡.png.nssyncsc",
     "Charts/中国锌矿产量.png.nssyncsc",
     "Charts/中国锌精矿进口.png.nssyncsc",
-    "铜市场分析20250420.md",
     "no.1.8.1.md",
     "no.1.8.1.2.md",
     "no.1.8.1.1.md",
