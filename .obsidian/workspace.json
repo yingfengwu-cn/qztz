@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "658374cd033cc37d",
+        "id": "adb06a21c1f9ebf6",
         "type": "tabs",
         "children": [
           {
-            "id": "42e8f9d59eef2331",
+            "id": "c6c95b1e012dd4f7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -167,7 +165,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "42e8f9d59eef2331",
+  "active": "c6c95b1e012dd4f7",
   "lastOpenFiles": [
     "铜市场分析20250427.md",
     "锌分析20250427.md",
