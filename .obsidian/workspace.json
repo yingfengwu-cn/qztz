@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "adb06a21c1f9ebf6",
+        "id": "3e0c5ba43bc5a773",
         "type": "tabs",
         "children": [
           {
-            "id": "c6c95b1e012dd4f7",
+            "id": "78ed8b5657d45747",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "no.1.1.1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "no.1.1.1"
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +165,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c6c95b1e012dd4f7",
+  "active": "78ed8b5657d45747",
   "lastOpenFiles": [
+    "no.1.1.1.md",
     "铜市场分析20250427.md",
     "锌分析20250427.md",
     "no.1.1.md",
@@ -202,7 +199,6 @@
     "no.1.8.1.1.md",
     "no.1.7.md",
     "no.1.7.4.md",
-    "no.1.1.1.md",
     "no.1.4.md",
     "no.1.2.3.md",
     "no.1.2.2.md",
