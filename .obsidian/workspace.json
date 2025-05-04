@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "铜市场分析20250427.md",
-                "mode": "preview",
+                "file": "no.1.10.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "铜市场分析20250427"
+              "title": "no.1.10"
             }
           }
         ]
@@ -171,13 +171,15 @@
   },
   "active": "2864a1265ae0cef2",
   "lastOpenFiles": [
+    "no.1.9.md",
+    "no.1.1.md",
+    "index.md",
+    "铜市场分析20250427.md",
     "Charts/沪伦比值：现货沪伦比值.png",
     "no.1.1.1.md",
     "Charts/平衡表供应表格.png",
     "Charts/锌冶炼综合利润（用外贸矿）和开工率.png",
-    "铜市场分析20250427.md",
     "锌分析20250427.md",
-    "no.1.1.md",
     "Charts/锌加工费和锌价.png",
     "Charts/铜表消季节性.png",
     "Charts/铜表消季节性.png.nssyncsc",
@@ -192,7 +194,6 @@
     "Charts/中国锌锭期末库存.png",
     "Charts/中国锌矿平衡.png",
     "Charts/中国锌矿产量.png",
-    "Charts/中国锌精矿进口.png",
     "Charts/中国锌锭库存天数.png.nssyncsc",
     "Charts/中国锌矿期末库存.png.nssyncsc",
     "Charts/中国锌锭期末库存.png.nssyncsc",
@@ -215,7 +216,6 @@
     "no.2.1.md",
     "no.1.10.md",
     "README.md",
-    "锌分析20250413.md",
-    "锌分析20250406.md"
+    "锌分析20250413.md"
   ]
 }
