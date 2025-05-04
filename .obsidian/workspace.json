@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3e0c5ba43bc5a773",
+        "id": "3a88ab965d180714",
         "type": "tabs",
         "children": [
           {
-            "id": "78ed8b5657d45747",
+            "id": "2864a1265ae0cef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "no.1.1.1.md",
+                "file": "no.1.10.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "no.1.1.1"
+              "title": "no.1.10"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -160,28 +160,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "78ed8b5657d45747",
+  "active": "2864a1265ae0cef2",
   "lastOpenFiles": [
+    "no.1.9.md",
+    "no.1.8.4.md",
+    "no.1.10.md",
     "Charts/两市月差.png",
-    "Charts/两市月差.png.nssyncsc",
-    "Charts/美联储下一次基准利率变化方向.png",
-    "Charts/海外锌矿产量和净进口.png",
-    "Charts/平衡表需求表格.png",
+    "no.1.1.md",
+    "index.md",
+    "铜市场分析20250427.md",
+    "Charts/沪伦比值：现货沪伦比值.png",
+    "no.1.1.1.md",
     "Charts/平衡表供应表格.png",
     "Charts/锌冶炼综合利润（用外贸矿）和开工率.png",
-    "no.1.1.1.md",
-    "铜市场分析20250427.md",
     "锌分析20250427.md",
-    "no.1.1.md",
     "Charts/锌加工费和锌价.png",
     "Charts/铜表消季节性.png",
     "Charts/铜表消季节性.png.nssyncsc",
@@ -194,11 +195,13 @@
     "Charts/中国锌锭库存天数.png",
     "Charts/中国锌矿期末库存.png",
     "Charts/中国锌锭期末库存.png",
+    "Charts/中国锌矿平衡.png",
     "Charts/中国锌锭库存天数.png.nssyncsc",
     "Charts/中国锌矿期末库存.png.nssyncsc",
     "Charts/中国锌锭期末库存.png.nssyncsc",
     "Charts/中国锌矿平衡.png.nssyncsc",
     "Charts/中国锌矿产量.png.nssyncsc",
+    "Charts/中国锌精矿进口.png.nssyncsc",
     "no.1.8.1.md",
     "no.1.8.1.2.md",
     "no.1.8.1.1.md",
@@ -213,9 +216,6 @@
     "no.1.1.3.md",
     "no.1.1.2.md",
     "no.2.1.md",
-    "no.1.10.md",
-    "README.md",
-    "锌分析20250413.md",
-    "锌分析20250406.md"
+    "README.md"
   ]
 }
