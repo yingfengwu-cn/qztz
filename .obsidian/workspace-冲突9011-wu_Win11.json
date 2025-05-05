@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "铜市场分析20250505.md",
-                "mode": "preview",
-                "source": true
+                "file": "铜市场分析20250427-版本21-20250505.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "铜市场分析20250505"
+              "title": "铜市场分析20250427-版本21-20250505"
             }
           }
         ]
@@ -171,7 +171,7 @@
   },
   "active": "71592e7ad31fc53e",
   "lastOpenFiles": [
-    "铜市场分析20250505.md",
+    "铜市场分析20250427-版本21-20250505.md",
     "铜市场分析20250427.md",
     "index.md",
     "no.1.1.md",
