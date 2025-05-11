@@ -6,7 +6,6 @@
       {
         "id": "bef064acc7dcc67e",
         "type": "tabs",
-        "dimension": 22.073578595317723,
         "children": [
           {
             "id": "d750d47c2e0d464b",
@@ -16,27 +15,6 @@
               "state": {
                 "file": "锌分析20250511.md",
                 "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "锌分析20250511"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7ea1fa3e11add621",
-        "type": "tabs",
-        "dimension": 77.92642140468227,
-        "children": [
-          {
-            "id": "f8bfe866d99a02b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "锌分析20250511.md",
-                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -191,7 +169,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f8bfe866d99a02b1",
+  "active": "d750d47c2e0d464b",
   "lastOpenFiles": [
     "铜市场分析20250511.md",
     "no.1.1.1.md",
