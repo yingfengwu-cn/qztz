@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "no.1.1.1.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "no.1.1.1"
