@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "no.1.1.md",
+                "file": "no.1.1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "no.1.1"
+              "title": "no.1.1.1"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "23e368074064e5f4",
   "lastOpenFiles": [
-    "no.1.1.1.md",
     "no.1.1.md",
+    "no.1.1.1.md",
     "no.1.1.2.md",
     "铜市场分析20250511.md",
     "锌分析20250511.md",
