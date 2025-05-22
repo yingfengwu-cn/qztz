@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "no.1.9.md",
+                "file": "no.1.1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "no.1.9"
+              "title": "no.1.1.1"
             }
           }
         ]
@@ -171,13 +171,14 @@
   },
   "active": "e526d5382c6564f0",
   "lastOpenFiles": [
+    "no.1.1.md",
+    "no.1.9.md",
     "no.1.10.md",
     "no.2.3.md",
     "锌分析20250518.md",
     "铜市场分析20250517.md",
     "Charts/铜表消季节性2.png",
     "no.1.1.1.md",
-    "no.1.1.md",
     "no.1.1.2.md",
     "Charts/电解铜全球库存：万吨.png",
     "锌分析20250511.md.nssyncsc",
@@ -215,7 +216,6 @@
     "no.1.2.1.md",
     "no.1.2.md",
     "no.1.1.4.md",
-    "no.1.1.3.md",
-    "no.2.1.md"
+    "no.1.1.3.md"
   ]
 }
