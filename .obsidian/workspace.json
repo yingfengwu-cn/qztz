@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "铜市场分析20250517.md",
+                "file": "铜市场分析20250524.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "铜市场分析20250517"
+              "title": "铜市场分析20250524"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f3c2715164d696e9",
@@ -177,7 +178,7 @@
     "no.1.10.md",
     "no.2.3.md",
     "锌分析20250518.md",
-    "铜市场分析20250517.md",
+    "铜市场分析20250524.md",
     "Charts/铜表消季节性2.png",
     "no.1.1.2.md",
     "Charts/电解铜全球库存：万吨.png",
