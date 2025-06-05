@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "no.1.1.md",
+                "file": "no.1.1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "no.1.1"
+              "title": "no.1.1.1"
             }
           }
         ]
@@ -171,11 +171,11 @@
   },
   "active": "3e860dd3c0084bb9",
   "lastOpenFiles": [
+    "no.1.1.md",
     "铜市场分析20250601.md",
     "锌分析20250601.md",
     "Charts/lc价差.png",
     "no.1.1.1.md",
-    "no.1.1.md",
     "no.1.9.md",
     "no.1.10.md",
     "no.2.3.md",
