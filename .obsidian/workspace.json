@@ -15,7 +15,7 @@
               "state": {
                 "file": "铜市场分析20250601.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "铜市场分析20250601"
@@ -189,7 +189,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "510261945cb21ad8",
+  "active": "8ee2ac0e5d489c8e",
   "lastOpenFiles": [
     "no.1.1.1.md",
     "no.1.1.md",
