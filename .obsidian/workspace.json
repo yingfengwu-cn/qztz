@@ -6,7 +6,7 @@
       {
         "id": "4e5584d6f983a4d4",
         "type": "tabs",
-        "dimension": 74.3723849372385,
+        "dimension": 79.07949790794979,
         "children": [
           {
             "id": "ff541e8671ba7d48",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "锌分析20250601.md",
+                "file": "锌分析20250608.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "锌分析20250601"
+              "title": "锌分析20250608"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "6ad52ad7a4a23f2e",
         "type": "tabs",
-        "dimension": 25.627615062761507,
+        "dimension": 20.920502092050206,
         "children": [
           {
             "id": "c307f8a1d6a47012",
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "锌分析20250601.md",
+                "file": "锌分析20250608.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "锌分析20250601"
+              "title": "锌分析20250608"
             }
           }
         ]
@@ -191,12 +191,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c307f8a1d6a47012",
+  "active": "ff541e8671ba7d48",
   "lastOpenFiles": [
+    "Charts/铜终端模型.png",
     "铜市场分析20250608.md",
     "no.1.1.1.md",
     "no.1.1.md",
-    "锌分析20250601.md",
+    "锌分析20250608.md",
     "Charts/lc价差.png",
     "no.1.9.md",
     "no.1.10.md",
