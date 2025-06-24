@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6667644ded2c00d6",
+        "id": "6220f588fcfd87a6",
         "type": "tabs",
         "children": [
           {
-            "id": "26b775313106a697",
+            "id": "d2cedefa0dcd7546",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "铜市场分析20250622.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "铜市场分析20250622"
             }
           }
         ]
@@ -165,7 +169,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "26b775313106a697",
+  "active": "d2cedefa0dcd7546",
   "lastOpenFiles": [
     "铜市场分析20250622.md",
     "锌分析20250622.md",
