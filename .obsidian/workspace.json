@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6220f588fcfd87a6",
+        "id": "9db9438d983cb202",
         "type": "tabs",
         "children": [
           {
-            "id": "d2cedefa0dcd7546",
+            "id": "05e7a5b863fa27cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "铜市场分析20250629.md",
-                "mode": "preview",
+                "file": "锌分析20250622.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "铜市场分析20250629"
+              "title": "锌分析20250622"
             }
           }
         ]
@@ -169,11 +169,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d2cedefa0dcd7546",
+  "active": "05e7a5b863fa27cf",
   "lastOpenFiles": [
+    "铜市场分析20250629.md",
     "Charts/汽车板块月度季节性.png",
     "Charts/汽车板块月度消费.png",
-    "铜市场分析20250629.md",
     "锌分析20250622.md",
     "Charts/全球铜原料平衡表.png",
     "Charts/铜终端模型.png",
@@ -196,7 +196,6 @@
     "铜市场分析20250427-版本21-20250505.md.nssyncsc",
     "Charts/电解铜亚洲区库存月差关系.png",
     "Charts/电解铜亚洲区库存月差关系.png.nssyncsc",
-    "Charts/两市月差.png",
     "Charts/两市月差.png.nssyncsc",
     "铜市场分析20250427.md",
     "锌分析20250427.md",
