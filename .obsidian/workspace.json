@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "铜市场分析20250706.md",
+                "file": "铜市场分析20250713.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "铜市场分析20250706"
+              "title": "铜市场分析20250713"
+            }
+          }
+        ]
+      },
+      {
+        "id": "65b7af5a1bce3ada",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b8c31f884f37d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "铜市场分析20250713.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "铜市场分析20250713"
             }
           }
         ]
@@ -169,10 +189,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c7fe6317bd7a1190",
+  "active": "8b8c31f884f37d96",
   "lastOpenFiles": [
     "锌分析20250706.md",
-    "铜市场分析20250706.md",
+    "铜市场分析20250713.md",
     "Charts/汽车板块月度季节性.png",
     "Charts/汽车板块月度消费.png",
     "Charts/全球铜原料平衡表.png",
