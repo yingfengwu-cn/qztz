@@ -15,7 +15,7 @@
               "state": {
                 "file": "锌分析20250706.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "锌分析20250706"
@@ -169,7 +169,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2becd1e1cacef1e7",
+  "active": "a0c79df695af3a50",
   "lastOpenFiles": [
     "铜市场分析20250713.md",
     "锌分析20250706.md",
