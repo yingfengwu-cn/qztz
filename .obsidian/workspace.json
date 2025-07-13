@@ -6,6 +6,7 @@
       {
         "id": "bee3fa3e658a6fc3",
         "type": "tabs",
+        "dimension": 76.15062761506276,
         "children": [
           {
             "id": "a0c79df695af3a50",
@@ -15,6 +16,27 @@
               "state": {
                 "file": "锌分析20250706.md",
                 "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "锌分析20250706"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6954991ea61e4f79",
+        "type": "tabs",
+        "dimension": 23.84937238493724,
+        "children": [
+          {
+            "id": "746d757ad3d6456d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "锌分析20250706.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
