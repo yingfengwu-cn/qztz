@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bee3fa3e658a6fc3",
+        "id": "9c8b3656cc0030e3",
         "type": "tabs",
-        "dimension": 77.61506276150628,
         "children": [
           {
-            "id": "a0c79df695af3a50",
+            "id": "6e6b8068a6b79f50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "锌分析20250713.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "锌分析20250713"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6954991ea61e4f79",
-        "type": "tabs",
-        "dimension": 22.384937238493723,
-        "children": [
-          {
-            "id": "746d757ad3d6456d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "锌分析20250713.md",
+                "file": "铜市场分析20250713.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "锌分析20250713"
+              "title": "铜市场分析20250713"
             }
           }
         ]
@@ -191,10 +169,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "746d757ad3d6456d",
+  "active": "6e6b8068a6b79f50",
   "lastOpenFiles": [
-    "铜市场分析20250713.md",
     "锌分析20250713.md",
+    "铜市场分析20250713.md",
     "Charts/汽车板块月度季节性.png",
     "Charts/汽车板块月度消费.png",
     "Charts/全球铜原料平衡表.png",
