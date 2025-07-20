@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "50b2e744eb73978c",
+        "id": "6708d74817ad9111",
         "type": "tabs",
         "children": [
           {
-            "id": "b83a424fea3133be",
+            "id": "607bba963a65348e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "锌分析20250720.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "锌分析20250720"
+              "title": "新标签页"
             }
           }
         ]
@@ -169,10 +165,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b83a424fea3133be",
+  "active": "607bba963a65348e",
   "lastOpenFiles": [
-    "铜市场分析20250720.md",
     "锌分析20250720.md",
+    "铜市场分析20250720 - 副本.md",
+    "铜市场分析20250720.md",
     "Charts/美国铜平衡表.png",
     "Charts/汽车板块月度季节性.png",
     "Charts/汽车板块月度消费.png",
