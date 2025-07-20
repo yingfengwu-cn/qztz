@@ -11,10 +11,14 @@
             "id": "607bba963a65348e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "锌分析20250721.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "锌分析20250721"
             }
           }
         ]
@@ -167,6 +171,7 @@
   },
   "active": "607bba963a65348e",
   "lastOpenFiles": [
+    "锌分析20250721.md",
     "锌分析20250720.md",
     "铜市场分析20250720 - 副本.md",
     "铜市场分析20250720.md",
@@ -211,7 +216,6 @@
     "no.1.2.3.md",
     "no.1.2.2.md",
     "no.1.2.1.md",
-    "no.1.2.md",
-    "no.1.1.4.md"
+    "no.1.2.md"
   ]
 }
