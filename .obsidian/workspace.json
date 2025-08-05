@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2ebb638d94bff38c",
+        "id": "8da5c1e662337cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "48c6821abee2a507",
+            "id": "0e6ce41fb5cb6679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "锌分析20250803.md",
+                "file": "铜市场分析20250803.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "锌分析20250803"
+              "title": "铜市场分析20250803"
             }
           }
         ]
@@ -169,10 +169,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "48c6821abee2a507",
+  "active": "0e6ce41fb5cb6679",
   "lastOpenFiles": [
-    "锌分析20250803 - 副本.md",
+    "d666665157bcb0562d8a57aa3896954.png",
+    "773d61351dc1d8803e00865bd80d7f4.png",
     "锌分析20250803.md",
+    "锌分析20250803 - 副本.md",
     "锌分析20250720.md",
     "锌分析20250720 - 副本.md",
     "乾瞻有色组半年度总结20250802.md",
@@ -191,7 +193,6 @@
     "Charts/LME锌跨期.png",
     "Charts/锌矿海外进口.png",
     "Charts/美国铜平衡表.png",
-    "Charts/汽车板块月度季节性.png",
     "no.1.1.1.md",
     "no.1.1.md",
     "no.1.9.md",
@@ -215,7 +216,6 @@
     "no.1.8.1.2.md",
     "no.1.8.1.1.md",
     "no.1.7.md",
-    "no.1.7.4.md",
-    "no.1.4.md"
+    "no.1.7.4.md"
   ]
 }
