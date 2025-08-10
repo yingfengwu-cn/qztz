@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8da5c1e662337cf6",
+        "id": "c69af20c2272fff3",
         "type": "tabs",
         "children": [
           {
-            "id": "0e6ce41fb5cb6679",
+            "id": "53bcb2a413cbfa98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "铜市场分析20250803.md",
+                "file": "锌分析20250811.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "铜市场分析20250803"
+              "title": "锌分析20250811"
             }
           }
         ]
@@ -169,18 +169,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0e6ce41fb5cb6679",
+  "active": "53bcb2a413cbfa98",
   "lastOpenFiles": [
+    "铜市场分析20250811.md",
     "d666665157bcb0562d8a57aa3896954.png",
     "773d61351dc1d8803e00865bd80d7f4.png",
-    "锌分析20250803.md",
+    "锌分析20250811.md",
     "锌分析20250803 - 副本.md",
     "锌分析20250720.md",
     "锌分析20250720 - 副本.md",
     "乾瞻有色组半年度总结20250802.md",
     "Charts/锌锭产量和利润.png",
     "锌分析20250803.md.nssyncsc",
-    "铜市场分析20250803.md",
     "铜市场分析20250803.md.nssyncsc",
     "Charts/美国：ISM：制造业PMI.png",
     "Charts/锌冶炼综合利润（用外贸矿）和开工率.png",
@@ -192,7 +192,6 @@
     "Charts/全球锌平衡表.png",
     "Charts/LME锌跨期.png",
     "Charts/锌矿海外进口.png",
-    "Charts/美国铜平衡表.png",
     "no.1.1.1.md",
     "no.1.1.md",
     "no.1.9.md",
