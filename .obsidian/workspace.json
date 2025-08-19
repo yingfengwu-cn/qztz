@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c54fe0f79a65b593",
+        "id": "9624e66d16b4e18d",
         "type": "tabs",
         "children": [
           {
-            "id": "e7f84a3413903b5f",
+            "id": "39f7a3caf64a8a89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "锌分析20250817.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "锌分析20250817"
+              "title": "新标签页"
             }
           }
         ]
@@ -169,7 +165,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7f84a3413903b5f",
+  "active": "39f7a3caf64a8a89",
   "lastOpenFiles": [
     "锌分析20250817.md",
     "铜市场分析20250817.md",
