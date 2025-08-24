@@ -11,10 +11,14 @@
             "id": "39f7a3caf64a8a89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "铜市场分析20250817.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "铜市场分析20250817"
             }
           }
         ]
@@ -165,7 +169,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "39f7a3caf64a8a89",
+  "active": "2becd1e1cacef1e7",
   "lastOpenFiles": [
     "锌分析20250817.md",
     "铜市场分析20250817.md",
