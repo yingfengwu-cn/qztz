@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4f455236250316c3",
+        "id": "19d6d7699877594c",
         "type": "tabs",
         "children": [
           {
-            "id": "d7ca5d4187066861",
+            "id": "00d5f27217210588",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "锌分析20250831.md",
+                "file": "铜市场分析20250831.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "锌分析20250831"
+              "title": "铜市场分析20250831"
             }
           }
         ]
@@ -169,13 +169,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d7ca5d4187066861",
+  "active": "00d5f27217210588",
   "lastOpenFiles": [
+    "Charts/COPX权重.png",
+    "锌分析20250831.md",
     "Charts/banding.png",
     "铜市场分析20250831.md",
     "Charts/COPXS.png",
     "Charts/COPXL.png",
-    "锌分析20250831.md",
     "Charts/COPXMethodology.png",
     "d666665157bcb0562d8a57aa3896954.png",
     "773d61351dc1d8803e00865bd80d7f4.png",
@@ -190,7 +191,6 @@
     "Charts/锌冶炼综合利润（用外贸矿）和开工率.png",
     "Charts/镀锌板卷：钢铁企业：检修产线条数：周.png",
     "铜市场分析20250727.md",
-    "Charts/铜历年季节性.png",
     "锌分析20250727.md",
     "铜市场分析20250720 - 副本.md",
     "no.1.1.1.md",
