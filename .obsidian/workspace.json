@@ -11,10 +11,14 @@
             "id": "f11a0c81e0f61b19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "锌分析20250914.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "锌分析20250914"
             }
           }
         ]
@@ -169,7 +173,7 @@
   "active": "f11a0c81e0f61b19",
   "lastOpenFiles": [
     "铜市场分析20250914.md",
-    "锌分析20250907.md",
+    "锌分析20250914.md",
     "Charts/铜精矿进口.png",
     "Charts/SMM进口锌精矿周度加工费.png",
     "d666665157bcb0562d8a57aa3896954.png",
