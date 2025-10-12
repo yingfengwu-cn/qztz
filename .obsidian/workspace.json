@@ -15,7 +15,7 @@
               "state": {
                 "file": "铜市场分析20251007.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "铜市场分析20251007"
@@ -170,7 +170,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2becd1e1cacef1e7",
+  "active": "9f5cd1c4212db29d",
   "lastOpenFiles": [
     "锌分析20251007.md",
     "铜市场分析20251007.md",
