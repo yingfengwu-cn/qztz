@@ -67,7 +67,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -164,7 +164,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "aa242a4ceadb0c7f",
+  "active": "2becd1e1cacef1e7",
   "lastOpenFiles": [
     "Untitled 2.canvas",
     "Untitled 1.canvas",
