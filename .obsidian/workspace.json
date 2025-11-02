@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8f07b74c09118f7d",
+        "id": "691adb0abbd34930",
         "type": "tabs",
         "children": [
           {
-            "id": "96346bebdd6f9a46",
+            "id": "d8812e60eba38a9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "锌分析20251026.md",
-                "mode": "preview",
+                "file": "铜市场分析20251026.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "锌分析20251026"
+              "title": "铜市场分析20251026"
             }
           }
         ]
@@ -170,10 +170,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "96346bebdd6f9a46",
+  "active": "d8812e60eba38a9d",
   "lastOpenFiles": [
-    "锌分析20250803 - 副本.md",
     "锌分析20251026.md",
+    "锌分析20250803 - 副本.md",
     "b388eeecd3bc621fbda8d7d7211e46b4.png",
     "b533b7130e92e5ea27f488885e322f81 1.png",
     "b533b7130e92e5ea27f488885e322f81.png",
