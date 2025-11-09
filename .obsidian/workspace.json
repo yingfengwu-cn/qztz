@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "锌分析20251102.md",
-                "mode": "preview",
+                "file": "铜市场分析20251102.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "锌分析20251102"
+              "title": "铜市场分析20251102"
             }
           }
         ]
@@ -166,15 +166,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "github-sync:Sync with Remote": false
     }
   },
   "active": "b9bd4f76d14a0547",
   "lastOpenFiles": [
+    "锌分析20251102.md",
     "铜市场分析20251102.md",
     "铜市场分析20250720 - 副本.md",
-    "锌分析20251102.md",
     "锌分析20250803 - 副本.md",
     "0ddd5ac17d53f9899240faeb3dcc1aff 1.jpg",
     "0ddd5ac17d53f9899240faeb3dcc1aff.jpg",
