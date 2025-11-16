@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "锌分析20251109.md",
+                "file": "锌分析20251116.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "锌分析20251109"
+              "title": "锌分析20251116"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "锌分析20251109.md",
-                "mode": "source",
+                "file": "锌分析20251116.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "锌分析20251109"
+              "title": "锌分析20251116"
             }
           }
         ],
@@ -188,7 +188,7 @@
   "active": "dfadad5e415eed0c",
   "lastOpenFiles": [
     "锌分析20250803 - 副本.md",
-    "锌分析20251109.md",
+    "锌分析20251116.md",
     "铜市场分析20251116.md",
     "铜市场分析20250720 - 副本.md",
     "Charts/LME Curve2.png",
