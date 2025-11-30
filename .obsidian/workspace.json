@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e25c909ccee5f6d0",
+        "id": "817ecbbc4d399f6a",
         "type": "tabs",
         "children": [
           {
-            "id": "870f223976d3be45",
+            "id": "bc53a6e598365204",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "锌分析20251123.md",
-                "mode": "preview",
-                "source": false
+                "file": "铜市场分析20251123.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "锌分析20251123"
+              "title": "铜市场分析20251123"
             }
           }
         ]
@@ -170,17 +170,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "870f223976d3be45",
+  "active": "bc53a6e598365204",
   "lastOpenFiles": [
-    "锌分析20250803 - 副本.md",
-    "锌分析20251123.md",
-    "铜市场分析20251123.md",
     "铜市场分析20250720 - 副本.md",
+    "铜市场分析20251109.pdf",
+    "锌分析20251123.md",
+    "锌分析20250803 - 副本.md",
+    "铜市场分析20251123.md",
     "Charts/LME Curve2.png",
     "Charts/LME Curve.png",
     "锌分析20250720.md",
     "Charts/实时比价图.png",
-    "铜市场分析20251109.pdf",
     "0ddd5ac17d53f9899240faeb3dcc1aff 1.jpg",
     "0ddd5ac17d53f9899240faeb3dcc1aff.jpg",
     "824fa009173585b5e2672aa38b440e4f.png",
