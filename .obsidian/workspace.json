@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "锌分析20251130.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -172,6 +172,7 @@
   },
   "active": "a2fdd3784d2446e0",
   "lastOpenFiles": [
+    "Charts/海外精炼锌产量.png",
     "铜市场分析20251207.md",
     "铜市场分析20250720 - 副本.md",
     "锌分析20251130.md",
