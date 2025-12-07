@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "08747e837dcd7e85",
+        "id": "61b33a1a77a4865d",
         "type": "tabs",
         "children": [
           {
-            "id": "10d234f0289fcfc7",
+            "id": "a2fdd3784d2446e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "铜市场分析20251207.md",
-                "mode": "source",
+                "file": "锌分析20251130.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "铜市场分析20251207"
+              "title": "锌分析20251130"
             }
           }
         ]
@@ -170,10 +170,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "10d234f0289fcfc7",
+  "active": "a2fdd3784d2446e0",
   "lastOpenFiles": [
-    "铜市场分析20250720 - 副本.md",
     "铜市场分析20251207.md",
+    "铜市场分析20250720 - 副本.md",
     "锌分析20251130.md",
     "锌分析20250803 - 副本.md",
     "铜市场分析20251109.pdf",
