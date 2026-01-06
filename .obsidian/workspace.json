@@ -15,7 +15,7 @@
               "state": {
                 "file": "铜市场分析20260106.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "铜市场分析20260106"
@@ -172,6 +172,7 @@
   },
   "active": "f223efe192147f39",
   "lastOpenFiles": [
+    "3bec79232b1eecbf5cab345655f02aef.png",
     "铜市场分析20260106.md",
     "0711fef19a9add8d47d8a440f328df77.png",
     "2025有色组总结.md",
