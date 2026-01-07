@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "18e0dcd50b14eca1",
+        "id": "a97346645560b49b",
         "type": "tabs",
         "children": [
           {
-            "id": "f223efe192147f39",
+            "id": "f90e79d73c47e0fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "铜市场分析20260106.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "铜市场分析20260106"
+              "title": "New tab"
             }
           }
         ]
@@ -170,16 +166,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f223efe192147f39",
+  "active": "f90e79d73c47e0fb",
   "lastOpenFiles": [
-    "3bec79232b1eecbf5cab345655f02aef.png",
+    "铜市场分析20250427.md",
+    "铜市场分析20250720 - 副本.md",
     "铜市场分析20260106.md",
+    "3bec79232b1eecbf5cab345655f02aef.png",
     "0711fef19a9add8d47d8a440f328df77.png",
     "2025有色组总结.md",
     "e4af0d6ec348af0d9fac15857d6fb062.png",
     "7fb7b024f1f2942f55a287816cd3b7da.png",
     "锌分析20251228.md",
-    "铜市场分析20250720 - 副本.md",
     "5acf586a24829dde56887e5c942caed0 1.png",
     "5acf586a24829dde56887e5c942caed0.png",
     "锌分析20250803 - 副本.md",
@@ -188,7 +185,6 @@
     "Charts/海外精炼锌产量.png",
     "铜市场分析20251109.pdf",
     "Charts/LME Curve2.png",
-    "Charts/LME Curve.png",
     "锌分析20250720.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -213,7 +209,6 @@
     "铜市场分析20250427-版本21-20250505.md.nssyncsc",
     "Charts/电解铜亚洲区库存月差关系.png.nssyncsc",
     "Charts/两市月差.png.nssyncsc",
-    "铜市场分析20250427.md",
     "锌分析20250427.md",
     "Charts/铜表消季节性.png.nssyncsc",
     "no.2.2.md",
