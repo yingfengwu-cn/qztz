@@ -25,12 +25,14 @@
             "id": "91bc61262ddc0032",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "铜市场分析20260111.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "铜市场分析20260111"
             }
           }
         ],
@@ -91,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 235.5
   },
   "right": {
     "id": "f3c2715164d696e9",
@@ -185,6 +187,9 @@
   },
   "active": "91bc61262ddc0032",
   "lastOpenFiles": [
+    "铜市场分析20251109.pdf",
+    "铜市场分析20250427.md",
+    "锌分析20251228.md",
     "铜市场分析20250720 - 副本.md",
     "铜市场分析20260111.md",
     "2890c3d9db353e8eeb780943e841a44b.png",
@@ -193,16 +198,13 @@
     "Charts/铜仓单.png",
     "Charts/产业套保净空持仓.png",
     "2026有色组账户资金申请及风控调整.md",
-    "铜市场分析20250427.md",
     "3bec79232b1eecbf5cab345655f02aef.png",
     "0711fef19a9add8d47d8a440f328df77.png",
     "2025有色组总结.md",
     "e4af0d6ec348af0d9fac15857d6fb062.png",
     "7fb7b024f1f2942f55a287816cd3b7da.png",
-    "锌分析20251228.md",
     "5acf586a24829dde56887e5c942caed0 1.png",
     "锌分析20250803 - 副本.md",
-    "铜市场分析20251109.pdf",
     "锌分析20250720.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
