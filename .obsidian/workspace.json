@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "铜市场分析20260111"
             }
+          },
+          {
+            "id": "91bc61262ddc0032",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "83d3dd4264ceaeb7",
+  "active": "91bc61262ddc0032",
   "lastOpenFiles": [
     "铜市场分析20250720 - 副本.md",
     "铜市场分析20260111.md",
