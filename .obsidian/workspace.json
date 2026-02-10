@@ -11,10 +11,14 @@
             "id": "c4af4394dc6362ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "铜市场分析20260201.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "铜市场分析20260201"
             }
           }
         ]
@@ -168,8 +172,9 @@
   },
   "active": "c4af4394dc6362ec",
   "lastOpenFiles": [
-    "铜市场分析20260201.md",
     "铜市场分析20260201 1.md",
+    "铜市场分析20260201.md",
+    "71b5a93599d9e08eeb1abf4911cf810b.png",
     "铜市场分析20250427.md",
     "52783281cc82396abf8f5e021d2510e9.png",
     "Untitled.md",
@@ -184,7 +189,6 @@
     "2890c3d9db353e8eeb780943e841a44b.png",
     "5c67180c28be1d85e211d860d324d077.png",
     "7442b0625c041ad11914ce950b689e04.png",
-    "Charts/铜仓单.png",
     "2026有色组账户资金申请及风控调整.md",
     "2025有色组总结.md",
     "锌分析20250803 - 副本.md",
@@ -215,7 +219,6 @@
     "锌分析20250427.md",
     "Charts/铜表消季节性.png.nssyncsc",
     "no.2.2.md",
-    "no.1.8.1.md",
-    "no.1.8.1.2.md"
+    "no.1.8.1.md"
   ]
 }
