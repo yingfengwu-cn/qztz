@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "304b6253b31a82d6",
+        "id": "977b667ed7ed499e",
         "type": "tabs",
         "children": [
           {
-            "id": "4abbcefccbd8ed1c",
+            "id": "c4af4394dc6362ec",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -168,7 +166,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4abbcefccbd8ed1c",
+  "active": "c4af4394dc6362ec",
   "lastOpenFiles": [
     "铜市场分析20260201.md",
     "铜市场分析20260201 1.md",
