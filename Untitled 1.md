@@ -16,6 +16,7 @@
 • 英文原句：
     ◦ 钻探总量 (Table 55)："Phase 1 ... RC [102孔] ... 8 212 [米] ... DD [28孔] ... 2 407.25 [米] ... Total 130 [孔] 10 618.75 [米]"。
     ◦ 探槽总量 (Table 56)："Total [Trenches] 60 ... 3 936 [Final (m)]"。
+    
 4. 战略重心：氧化矿开发 (Strategic Focus on Oxides)
 • 所在页面： 第 ix 页 (Executive Summary)
 • 英文原句：
