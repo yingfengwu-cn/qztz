@@ -14,27 +14,14 @@
               "type": "markdown",
               "state": {
                 "file": "铜市场分析20260201 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "铜市场分析20260201 1"
             }
-          },
-          {
-            "id": "a28ecf6483829514",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +170,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a28ecf6483829514",
+  "active": "7c24e51664cf113d",
   "lastOpenFiles": [
     "春节假期情况汇总.md",
     "9373310407d84d18507a68e591cc2509.png",
