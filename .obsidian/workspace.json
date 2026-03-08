@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "铜市场分析20260301.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -172,9 +172,9 @@
   },
   "active": "7c24e51664cf113d",
   "lastOpenFiles": [
-    "qztz",
     "铜市场分析20260201.md",
     "铜市场分析20260301.md",
+    "qztz",
     "b8dda706ae8dc9279e437106b7f76193.jpg",
     "春节假期情况汇总.md",
     "9373310407d84d18507a68e591cc2509.png",
@@ -219,7 +219,6 @@
     "铜市场分析20250427-版本21-20250505.md.nssyncsc",
     "Charts/电解铜亚洲区库存月差关系.png.nssyncsc",
     "Charts/两市月差.png.nssyncsc",
-    "锌分析20250427.md",
-    "Charts/铜表消季节性.png.nssyncsc"
+    "锌分析20250427.md"
   ]
 }
