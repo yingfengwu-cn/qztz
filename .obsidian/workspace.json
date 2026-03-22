@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "铜市场分析20260315.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -172,9 +172,9 @@
   },
   "active": "7c24e51664cf113d",
   "lastOpenFiles": [
-    "Charts/库存期货",
     "铜市场分析20260201.md",
     "铜市场分析20260315.md",
+    "Charts/库存期货",
     "681b5f37c44dd2500f3673031becdc00.png",
     "df324ab7aa8c2dc2f2a3b597915b8f5f.jpg",
     "Charts/产业套保净空持仓.png",
@@ -219,7 +219,6 @@
     "铜市场分析20250505.md",
     "铜市场分析20250505.md.nssyncsc",
     "铜市场分析20250427-版本21-20250505.md",
-    "铜市场分析20250427-版本21-20250505.md.nssyncsc",
     "锌分析20250427.md"
   ]
 }
