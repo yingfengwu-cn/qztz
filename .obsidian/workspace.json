@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "de35f09b30f37604",
+        "id": "e6fd6c66a2f1e6af",
         "type": "tabs",
         "children": [
           {
-            "id": "c8560ce6f22ebe19",
+            "id": "26fb1a0618d96516",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "铜市场分析20260419.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "铜市场分析20260419"
-            }
-          },
-          {
-            "id": "185cf02e1c1755dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "铜市场分析20260419.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "铜市场分析20260419"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +170,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "185cf02e1c1755dd",
+  "active": "26fb1a0618d96516",
   "lastOpenFiles": [
-    "铜市场分析20260201.md",
     "铜市场分析20260419.md",
+    "铜市场分析20260201.md",
     "锌分析20250720.md",
     "no.1.1.md",
     "index.md",
