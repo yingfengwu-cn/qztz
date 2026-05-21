@@ -6,8 +6,7 @@
 watchdog agent：监督各agents干活
 
 managers：
-data department head
-research department head
+investment department head （CIO）领导  data department head 领导  monitor agent 和database agent。
 
 
 
@@ -16,5 +15,4 @@ research department head
 1.1 要跟踪市场最新进展，需要抓取实时数据，实时数据包括价格数据（分钟级）、库存等基本面数据（日度周度月度级），这些可以通过各数据网站api并结合人工录入实现。这个环节有两个关键点：其一数据打通，源数据可能来自N个数据源，需要整合到一个时间序列里方便后续分析（日度即可，不需要日内）；其二价格数据具有很强时效性，需要进行日内跟踪（分钟级、小时级）。这个环节可以设立2个agent（database agent+monitor agent），一个负责时间序列数据库维护，一个负责日内价格数据和新闻公告跟踪。
 1.2 要理解市场目前在交易什么，不仅要关注各资产（板块间）相关性走势和当下新闻热点，可能还要结合历史复盘（如果某个品种在走独立行情）。这一环节需要两个agent：一个（monitor thoughts agent）负责基于monitor agent里给到的数据总结当下资产价格走势相关性（宏观情绪驱动？如果各板块同涨同跌；自身基本面驱动？如果在板块内领涨或领跌等，可以由各种pattern和条件进行定义）；另一个（history thoughts agent）负责基于database agent给的长周期序列进行分析，并告诉monitor thoughts agent现在处于哪个pattern，这通常会结合过去一段时间的走势而不单纯看日内并反馈给monitor agents现在重点需要检测哪些指标。以上进行分析的内容先专注在某个品种上，比如铜。
 
-2.建立历史数据库并基于历史复盘评估目前各资产价格估值位置。
-3.综合历史和当下，分析研判交易机会所在。
+2.综合历史复盘和当下，分析研判交易机会所在。
