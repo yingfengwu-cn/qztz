@@ -3,7 +3,12 @@
 
 公司架构：
 
-ceo agent：各manager pm向他汇报
+watchdog agent：监督各agents干活
+
+managers：
+data department head
+research department head
+
 
 
 如何实现投资决策？
