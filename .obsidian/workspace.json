@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "铜市场分析20260524.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -172,10 +172,10 @@
   },
   "active": "26fb1a0618d96516",
   "lastOpenFiles": [
+    "Charts/lc价差.png",
     "铜市场分析20260201.md",
     "铜市场分析20260524.md",
     "Bedrock Inc..md",
-    "Charts/lc价差.png",
     "05f99445fd589e8d031aa2275af4fad1.png",
     "img-202605102159507.jpg",
     "Charts/lc价差.png.nssyncsc",
@@ -219,7 +219,6 @@
     "no.2.3.md",
     "锌分析20250511.md.nssyncsc",
     "铜市场分析20250511.md.nssyncsc",
-    "铜市场分析20250505.md",
-    "铜市场分析20250427-版本21-20250505.md"
+    "铜市场分析20250505.md"
   ]
 }
