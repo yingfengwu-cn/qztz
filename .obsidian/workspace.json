@@ -11,14 +11,12 @@
             "id": "26fb1a0618d96516",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "铜市场分析20260531.md",
-                "mode": "source",
-                "source": true
+                "file": "Charts/产业套保净空持仓.png"
               },
-              "icon": "lucide-file",
-              "title": "铜市场分析20260531"
+              "icon": "lucide-image",
+              "title": "产业套保净空持仓"
             }
           }
         ]
@@ -172,9 +170,10 @@
   },
   "active": "26fb1a0618d96516",
   "lastOpenFiles": [
+    "Charts/彩涂板卷：钢铁企业：厂内库存：中国：周.png",
+    "铜市场分析20260531.md",
     "e80ce4c1652b19083d652b787dee49bb.jpg",
     "铜市场分析20260201.md",
-    "铜市场分析20260531.md",
     "Charts/lc价差.png",
     "Bedrock Inc..md",
     "05f99445fd589e8d031aa2275af4fad1.png",
@@ -194,7 +193,6 @@
     "b8dda706ae8dc9279e437106b7f76193.jpg",
     "春节假期情况汇总.md",
     "9373310407d84d18507a68e591cc2509.png",
-    "aeb0a28f9f4952a12b47683649a6141b.png",
     "Untitled 1.md",
     "铜市场分析20250427.md",
     "Untitled.md",
