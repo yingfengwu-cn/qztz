@@ -11,14 +11,10 @@
             "id": "26fb1a0618d96516",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "铜市场分析20260607.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "铜市场分析20260607"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "f3c2715164d696e9",
@@ -173,8 +168,7 @@
   },
   "active": "26fb1a0618d96516",
   "lastOpenFiles": [
-    "Charts/产业套保净空持仓.png",
-    "Charts/彩涂板卷：钢铁企业：厂内库存：中国：周.png",
+    "铜市场分析20260531.md",
     "铜市场分析20260607.md",
     "e80ce4c1652b19083d652b787dee49bb.jpg",
     "铜市场分析20260201.md",
@@ -190,6 +184,7 @@
     "Charts/库存期货",
     "681b5f37c44dd2500f3673031becdc00.png",
     "df324ab7aa8c2dc2f2a3b597915b8f5f.jpg",
+    "Charts/产业套保净空持仓.png",
     "Charts/产业套保净空持仓.png~RF24ae07f6.TMP",
     "Charts/产业套保净空持仓.png.~tmp",
     "qztz",
