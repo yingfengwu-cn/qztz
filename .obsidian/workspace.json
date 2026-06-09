@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6fd6c66a2f1e6af",
+        "id": "b842a08f6aee004b",
         "type": "tabs",
         "children": [
           {
-            "id": "26fb1a0618d96516",
+            "id": "68222da4e4c21118",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "f3c2715164d696e9",
@@ -171,11 +170,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "26fb1a0618d96516",
+  "active": "68222da4e4c21118",
   "lastOpenFiles": [
-    "沪铜净持仓曲线.png",
-    "铜市场分析20260517.md",
     "铜市场分析20260607.md",
+    "铜市场分析20260517.md",
+    "Charts/cu_casharb_factor_review.png",
+    "沪铜净持仓曲线.png",
     "Charts/cu0_weekly_30min.png",
     "Charts/漆包扁线QXYB220加工费（周）-NSConflict-wu-mac26.2.png",
     "Charts/SMM中国铜管产量-NSConflict-wu-mac26.2.png",
@@ -184,8 +184,6 @@
     "Charts/平衡表需求表格-NSConflict-wu-mac26.2.png",
     "Charts/铜精矿出口：智利-NSConflict-wu-mac26.2.png",
     "Charts/SMM锌锭溢价：宁波-NSConflict-wu-mac26.2.png",
-    "Charts/非洲实际出口（离港）-NSConflict-wu-mac26.2.png",
-    "Charts/HG3 Comdty-NSConflict-wu-mac26.2.png",
     "Charts/漆包扁线QXYB220加工费（周）-NSConflict-wu-mac26.2.nssyncsc",
     "Charts/SMM中国铜管产量-NSConflict-wu-mac26.2.nssyncsc",
     "Charts/铜精矿出口：哈萨克斯坦-NSConflict-wu-mac26.2.nssyncsc",
