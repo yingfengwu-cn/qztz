@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "铜市场分析20260607.md",
+                "file": "铜市场分析20260517.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "铜市场分析20260607"
+              "title": "铜市场分析20260517"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "f3c2715164d696e9",
@@ -173,39 +172,31 @@
   },
   "active": "26fb1a0618d96516",
   "lastOpenFiles": [
-    "Charts/漆包扁线QXYB220加工费（周）-NSConflict-wu-mac26.2.png",
-    "Charts/SMM中国铜管产量-NSConflict-wu-mac26.2.png",
-    "Charts/铜精矿出口：哈萨克斯坦-NSConflict-wu-mac26.2.png",
-    "Charts/中国锌锭表消-NSConflict-wu-mac26.2.png",
-    "Charts/平衡表需求表格-NSConflict-wu-mac26.2.png",
-    "Charts/铜精矿出口：智利-NSConflict-wu-mac26.2.png",
-    "Charts/SMM锌锭溢价：宁波-NSConflict-wu-mac26.2.png",
-    "Charts/非洲实际出口（离港）-NSConflict-wu-mac26.2.png",
-    "Charts/HG3 Comdty-NSConflict-wu-mac26.2.png",
-    "Charts/电解铜进口：沙特-NSConflict-wu-mac26.2.png",
-    "Charts/镀锌板卷：库存：中国：周-NSConflict-wu-mac26.2.png",
-    "铜市场分析20260517.md",
-    "Charts/漆包扁线QXYB220加工费（周）-NSConflict-wu-mac26.2.nssyncsc",
-    "Charts/SMM中国铜管产量-NSConflict-wu-mac26.2.nssyncsc",
-    "Charts/铜精矿出口：哈萨克斯坦-NSConflict-wu-mac26.2.nssyncsc",
-    "Charts/中国锌锭表消-NSConflict-wu-mac26.2.nssyncsc",
-    "Charts/平衡表需求表格-NSConflict-wu-mac26.2.nssyncsc",
-    "Charts/铜精矿出口：智利-NSConflict-wu-mac26.2.nssyncsc",
-    "Charts/SMM锌锭溢价：宁波-NSConflict-wu-mac26.2.nssyncsc",
-    "Charts/非洲实际出口（离港）-NSConflict-wu-mac26.2.nssyncsc",
-    "Charts/HG3 Comdty-NSConflict-wu-mac26.2.nssyncsc",
-    "Charts/电解铜进口：沙特-NSConflict-wu-mac26.2.nssyncsc",
     "铜市场分析20260201.md",
-    "铜市场分析20260607.md",
-    "铜市场分析20260531.md",
-    "Bedrock Inc..md",
+    "铜市场分析20260517.md",
+    "Charts/lc价差.png",
+    "05f99445fd589e8d031aa2275af4fad1.png",
+    "img-202605102159507.jpg",
+    "Charts/lc价差.png.nssyncsc",
+    "e1a07bd810a8741ab00b41210b1b7408.png",
     "锌分析20250720.md",
     "no.1.1.md",
     "index.md",
+    "Charts/库存期货",
+    "681b5f37c44dd2500f3673031becdc00.png",
+    "df324ab7aa8c2dc2f2a3b597915b8f5f.jpg",
+    "Charts/产业套保净空持仓.png",
+    "Charts/产业套保净空持仓.png~RF24ae07f6.TMP",
+    "Charts/产业套保净空持仓.png.~tmp",
+    "qztz",
+    "b8dda706ae8dc9279e437106b7f76193.jpg",
     "春节假期情况汇总.md",
+    "9373310407d84d18507a68e591cc2509.png",
+    "aeb0a28f9f4952a12b47683649a6141b.png",
     "Untitled 1.md",
     "铜市场分析20250427.md",
     "Untitled.md",
+    "铜市场分析20251109.pdf",
     "锌分析20251228.md",
     "铜市场分析20250720 - 副本.md",
     "2026有色组账户资金申请及风控调整.md",
@@ -217,10 +208,17 @@
     "no.1.1.2.md",
     "锌分析20250720 - 副本.md",
     "乾瞻有色组半年度总结20250802.md",
+    "锌分析20250803.md.nssyncsc",
+    "铜市场分析20250803.md.nssyncsc",
     "铜市场分析20250727.md",
     "锌分析20250727.md",
     "no.1.1.1.md",
     "no.1.9.md",
-    "no.1.10.md"
+    "no.1.10.md",
+    "no.2.3.md",
+    "锌分析20250511.md.nssyncsc",
+    "铜市场分析20250511.md.nssyncsc",
+    "铜市场分析20250505.md",
+    "铜市场分析20250427-版本21-20250505.md"
   ]
 }
