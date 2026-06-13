@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b842a08f6aee004b",
+        "id": "d315129beae66e46",
         "type": "tabs",
         "children": [
           {
-            "id": "68222da4e4c21118",
+            "id": "76526e573ae95bd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "铜市场分析20260607.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "铜市场分析20260607"
+              "title": "新标签页"
             }
           }
         ]
@@ -171,10 +167,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "68222da4e4c21118",
+  "active": "76526e573ae95bd8",
   "lastOpenFiles": [
-    "铜市场分析20260517.md",
     "铜市场分析20260607.md",
+    "铜市场分析20260517.md",
     "Charts/cu_casharb_factor_review.png",
     "沪铜净持仓曲线.png",
     "Charts/cu0_weekly_30min.png",
