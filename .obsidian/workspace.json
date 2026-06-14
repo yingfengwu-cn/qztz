@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "铜市场分析20260607.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -173,6 +173,7 @@
   },
   "active": "76526e573ae95bd8",
   "lastOpenFiles": [
+    "Charts/沪铜净持仓曲线.png",
     "铜市场分析20260517.md",
     "铜市场分析20260607.md",
     "Charts/cu0_weekly_30min.png",
