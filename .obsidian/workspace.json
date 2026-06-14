@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "铜市场分析20260607.md",
-                "mode": "source",
+                "file": "铜市场分析20260614.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "铜市场分析20260607"
+              "title": "铜市场分析20260614"
             }
           }
         ]
@@ -175,7 +175,7 @@
   "lastOpenFiles": [
     "Charts/沪铜净持仓曲线.png",
     "铜市场分析20260517.md",
-    "铜市场分析20260607.md",
+    "铜市场分析20260614.md",
     "Charts/cu0_weekly_30min.png",
     "Charts/cu0_weekly_30min.jpeg",
     "Charts/cu_casharb_factor_review.png",
