@@ -11,10 +11,14 @@
             "id": "76526e573ae95bd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "铜市场分析20260607.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "铜市场分析20260607"
             }
           }
         ]
