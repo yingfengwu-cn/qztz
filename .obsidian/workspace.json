@@ -11,14 +11,12 @@
             "id": "76526e573ae95bd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "铜市场分析20260614.md",
-                "mode": "preview",
-                "source": true
+                "file": "3ebaabdaab201f5d6f422c98af2057c9.png"
               },
-              "icon": "lucide-file",
-              "title": "铜市场分析20260614"
+              "icon": "lucide-image",
+              "title": "3ebaabdaab201f5d6f422c98af2057c9"
             }
           }
         ]
@@ -172,8 +170,9 @@
   },
   "active": "76526e573ae95bd8",
   "lastOpenFiles": [
-    "铜市场分析20260517.md",
+    "2bd82ca4767e787ed30261a95e88da81.png",
     "铜市场分析20260614.md",
+    "铜市场分析20260517.md",
     "Charts/沪铜净持仓曲线.png",
     "Charts/cu0_weekly_30min.png",
     "Charts/cu0_weekly_30min.jpeg",
