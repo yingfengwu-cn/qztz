@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "f3c2715164d696e9",
@@ -172,10 +173,10 @@
   },
   "active": "76526e573ae95bd8",
   "lastOpenFiles": [
+    "铜市场分析20260517.md",
+    "铜市场分析20260614.md",
     "3ebaabdaab201f5d6f422c98af2057c9.png",
     "2bd82ca4767e787ed30261a95e88da81.png",
-    "铜市场分析20260614.md",
-    "铜市场分析20260517.md",
     "Charts/沪铜净持仓曲线.png",
     "Charts/cu0_weekly_30min.png",
     "Charts/cu0_weekly_30min.jpeg",
@@ -184,7 +185,6 @@
     "Charts/漆包扁线QXYB220加工费（周）-NSConflict-wu-mac26.2.png",
     "Charts/SMM中国铜管产量-NSConflict-wu-mac26.2.png",
     "Charts/铜精矿出口：哈萨克斯坦-NSConflict-wu-mac26.2.png",
-    "Charts/中国锌锭表消-NSConflict-wu-mac26.2.png",
     "Charts/漆包扁线QXYB220加工费（周）-NSConflict-wu-mac26.2.nssyncsc",
     "Charts/SMM中国铜管产量-NSConflict-wu-mac26.2.nssyncsc",
     "Charts/铜精矿出口：哈萨克斯坦-NSConflict-wu-mac26.2.nssyncsc",
