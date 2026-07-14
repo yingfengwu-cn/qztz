@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "铜市场分析20260712.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "f3c2715164d696e9",
