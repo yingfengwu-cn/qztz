@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "铜市场分析20260517.md",
-                "mode": "preview",
+                "file": "铜市场分析20260712.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "铜市场分析20260517"
+              "title": "铜市场分析20260712"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "f3c2715164d696e9",
@@ -173,8 +172,8 @@
   },
   "active": "83132805d382a50d",
   "lastOpenFiles": [
-    "铜市场分析20260201.md",
     "铜市场分析20260517.md",
+    "铜市场分析20260201.md",
     "沪铜净持仓曲线 1.png",
     "Charts/非洲库存变化.png",
     "Charts/非洲实际出口（离港）.png",
